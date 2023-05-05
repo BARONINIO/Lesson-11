@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.box {
+    border: 3px solid rgb(126, 0, 126);
+    width: 1350px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box2 {
+    display: flex;
+    gap: 30px;
+}
